@@ -1,0 +1,444 @@
+{
+  "Lip Stick": {
+    "products": [
+      {
+        "title": "Dark Red",
+        "image": "./assets/products/lipstick/dark_red.png",
+        "color_code": "#ff0000",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Amaranth",
+        "image": "./assets/products/lipstick/Amaranth-Deep-Purple-#a8246c.png",
+        "color_code": "#a8246c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Ambitious",
+        "image": "./assets/products/lipstick/Ambitious-red-(Pink-Raspberry)-#90043c.png",
+        "color_code": "#90043c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Bistre",
+        "image": "./assets/products/lipstick/Bistre-#48241c.png",
+        "color_code": "#48241c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Brown",
+        "image": "./assets/products/lipstick/Brown-Chocolate-#600c34.png",
+        "color_code": "#600c34",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Cyclamen",
+        "image": "./assets/products/lipstick/Cyclamen-#f06c9c.png",
+        "color_code": "#f06c9c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Deep",
+        "image": "./assets/products/lipstick/Deep-Pink-#f81c9c.png",
+        "color_code": "#f81c9c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Heliotrope",
+        "image": "./assets/products/lipstick/Heliotrope-Magenta-#b004a4.png",
+        "color_code": "#b004a4",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Hopeful",
+        "image": "./assets/products/lipstick/Hopeful-red-(Claret)-#800434.png",
+        "color_code": "#800434",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Hot",
+        "image": "./assets/products/lipstick/Hot-Magenta-#f824d4.png",
+        "color_code": "#f824d4",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Liver",
+        "image": "./assets/products/lipstick/Liver-#703424.png",
+        "color_code": "#703424",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Lovely",
+        "image": "./assets/products/lipstick/Lovely-red-(Medium-Candy-Apple-Red)-#e80434.png",
+        "color_code": "#e80434",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Maximum",
+        "image": "./assets/products/lipstick/Maximum-Red-#d8241c.png",
+        "color_code": "#d8241c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Middle",
+        "image": "./assets/products/lipstick/Middle-Red-Purple-#a85454.png",
+        "color_code": "#a85454",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "New",
+        "image": "./assets/products/lipstick/New-York-Pink-#d87c74.png",
+        "color_code": "#d87c74",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Prosperous",
+        "image": "./assets/products/lipstick/Prosperous-red-(Alabama-Crimson)-#a8042c.png",
+        "color_code": "#a8042c",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Respected",
+        "image": "./assets/products/lipstick/Respected-red-(Red)-#c80434.png",
+        "color_code": "#c80434",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Successful",
+        "image": "./assets/products/lipstick/Successful-red-(Vivid-Crimson)-#d00434.png",
+        "color_code": "#d00434",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      },
+      {
+        "title": "Super",
+        "image": "./assets/products/lipstick/Super-Pink-#d05ca4.png",
+        "color_code": "#d05ca4",
+        "face_elements": ["LIP_LOWER", "LIP_UPPER"]
+      }
+    ]
+  },
+  "Eyeliner": {
+    "products": [
+      {
+        "title": "Blue Jersey",
+        "image": "./assets/products/eyeliner/Blue_Jersey_#083484.png",
+        "color_code": "#083484",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Bronze",
+        "image": "./assets/products/eyeliner/Bronze_#885c54.png",
+        "color_code": "#885c54",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Brown Denim",
+        "image": "./assets/products/eyeliner/Brown_Denim_#502c3c.png",
+        "color_code": "#502c3c",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Burgundy",
+        "image": "./assets/products/eyeliner/Burgundy_#80041c.png",
+        "color_code": "#80041c",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Cobalt Blue",
+        "image": "./assets/products/eyeliner/Cobalt_Blue_#1854fc.png",
+        "color_code": "#1854fc",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Emerald Green",
+        "image": "./assets/products/eyeliner/Emerald_Green_#10bc54.png",
+        "color_code": "#10bc54",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Intense Black",
+        "image": "./assets/products/eyeliner/Intense_Black_#080404.png",
+        "color_code": "#080404",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "IVY",
+        "image": "./assets/products/eyeliner/IVY_#70544c.png",
+        "color_code": "#70544c",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Nude",
+        "image": "./assets/products/eyeliner/Nude_#e8bc9c.png",
+        "color_code": "#e8bc9c",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Purple",
+        "image": "./assets/products/eyeliner/Purple_#684cfc.png",
+        "color_code": "#684cfc",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Silver",
+        "image": "./assets/products/eyeliner/Silver_#c0bcbc.png",
+        "color_code": "#c0bcbc",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Toupe Grey",
+        "image": "./assets/products/eyeliner/Toupe_Grey_#404c4c.png",
+        "color_code": "#404c4c",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      },
+      {
+        "title": "Turquoise",
+        "image": "./assets/products/eyeliner/Turquoise_#0894a4.png",
+        "color_code": "#0894a4",
+        "face_elements": ["EYELINER_LEFT", "EYELINER_RIGHT"]
+      }
+    ]
+  },
+  "Eyebrow": {
+    "products": [
+      {
+        "title": "Black",
+        "image": "./assets/products/eyebrows/Black-#201c1c.png",
+        "color_code": "#201c1c",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      },
+      {
+        "title": "Blonde",
+        "image": "./assets/products/eyebrows/Blonde-#b08c74.png",
+        "color_code": "#b08c74",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      },
+      {
+        "title": "Brunette",
+        "image": "./assets/products/eyebrows/Brunette-#5c4c3c.png",
+        "color_code": "#5c4c3c",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      },
+      {
+        "title": "Dark Blonde",
+        "image": "./assets/products/eyebrows/Dark Blonde-#785c44.png",
+        "color_code": "#785c44",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      },
+      {
+        "title": "Dark Brunette",
+        "image": "./assets/products/eyebrows/Dark Brunette-#40342c.png",
+        "color_code": "#40342c",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      },
+      {
+        "title": "Light Brunette",
+        "image": "./assets/products/eyebrows/Light Brunette-#88644c.png",
+        "color_code": "#88644c",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      },
+      {
+        "title": "Soft Brunette",
+        "image": "./assets/products/eyebrows/Soft Brunette-#685444.png",
+        "color_code": "#685444",
+        "face_elements": ["EYEBROW_LEFT", "EYEBROW_RIGHT"]
+      }
+    ]
+  },
+  "Foundation": {
+    "products": [
+      {
+        "title": "Buff Beige",
+        "image": "./assets/products/foundations/Buff Beige-#c89c7c.png",
+        "color_code": "#c89c7c",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Classic Beige",
+        "image": "./assets/products/foundations/Classic Beige-#c79b7c.png",
+        "color_code": "#c79b7c",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Classic Tan",
+        "image": "./assets/products/foundations/Classic Tan-#c27f48.png",
+        "color_code": "#c27f48",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Cocoa",
+        "image": "./assets/products/foundations/Cocoa-#a06c4c.png",
+        "color_code": "#a06c4c",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Creamy Natural",
+        "image": "./assets/products/foundations/Creamy Natural-#c89c84.png",
+        "color_code": "#c89c84",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Light Ivory",
+        "image": "./assets/products/foundations/Light Ivory-#f6d6bc.png",
+        "color_code": "#f6d6bc",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Nude Beige",
+        "image": "./assets/products/foundations/Nude Beige-#f0d1b2.png",
+        "color_code": "#f0d1b2",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Shell Beige",
+        "image": "./assets/products/foundations/Shell Beige-#dbaa8a.png",
+        "color_code": "#dbaa8a",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Soft Ivory",
+        "image": "./assets/products/foundations/Soft Ivory-#d4ad89.png",
+        "color_code": "#d4ad89",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Soft Sable",
+        "image": "./assets/products/foundations/Soft Sable-#bc8464.png",
+        "color_code": "#bc8464",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "Sun Beige",
+        "image": "./assets/products/foundations/Sun Beige-#ccb47c.png",
+        "color_code": "#ccb47c",
+        "face_elements": ["FOUNDATION"]
+      },
+      {
+        "title": "True Beige",
+        "image": "./assets/products/foundations/True Beige-#d0a47c.png",
+        "color_code": "#d0a47c",
+        "face_elements": ["FOUNDATION"]
+      }
+    ]
+  },
+  "Eyeshadow": {
+    "products": [
+      {
+        "title": "Acro Matte",
+        "image": "./assets/products/eyeshadow/Acro_Matte_#803c34.png",
+        "color_code": "#803c34",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Aluminium Foil",
+        "image": "./assets/products/eyeshadow/Aluminium_Foil_#a8a4a4.png",
+        "color_code": "#a8a4a4",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Argentic",
+        "image": "./assets/products/eyeshadow/Argentic_#acc4c4.png",
+        "color_code": "#acc4c4",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Beige Dress",
+        "image": "./assets/products/eyeshadow/Beige_Dress_#e4ac98.png",
+        "color_code": "#e4ac98",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Cafe Au Lait",
+        "image": "./assets/products/eyeshadow/Cafe_Au_Lait_#b07c5c.png",
+        "color_code": "#b07c5c",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Endless Sea",
+        "image": "./assets/products/eyeshadow/Endless_Sea_#38a4ac.png",
+        "color_code": "#38a4ac",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Golden Emerald",
+        "image": "./assets/products/eyeshadow/Golden_Emerald_#405434.png",
+        "color_code": "#405434",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Grand Bleu",
+        "image": "./assets/products/eyeshadow/Grand_Bleu_#2034cc.png",
+        "color_code": "#2034cc",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Green Promenade",
+        "image": "./assets/products/eyeshadow/Green_Promenade_#3e6756.png",
+        "color_code": "#3e6756",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Mademoiselle Pink",
+        "image": "./assets/products/eyeshadow/Mademoiselle_Pink_#ffbcb4.png",
+        "color_code": "#ffbcb4",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+
+      {
+        "title": "Matte Ison Avenue",
+        "image": "./assets/products/eyeshadow/Matte_Ison_Avenue_#501c14.png",
+        "color_code": "#501c14",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Matte It Up",
+        "image": "./assets/products/eyeshadow/Matte_It_Up_#b07464.png",
+        "color_code": "#b07464",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Midnight Blue",
+        "image": "./assets/products/eyeshadow/Midnight_Blue_#102c5c.png",
+        "color_code": "#102c5c",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Pain Chocolat",
+        "image": "./assets/products/eyeshadow/Pain_Chocolat_#b08c6c.png",
+        "color_code": "#b08c6c",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Paris Beach",
+        "image": "./assets/products/eyeshadow/Paris_Beach_#ffe4d4.png",
+        "color_code": "#ffe4d4",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Pearly Pink",
+        "image": "./assets/products/eyeshadow/Pearly_Pink_#dc9cd5.png",
+        "color_code": "#dc9cd5",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Quartz Fume",
+        "image": "./assets/products/eyeshadow/Quartz_Fume_#68442c.png",
+        "color_code": "#68442c",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+      {
+        "title": "Rose Chrome",
+        "image": "./assets/products/eyeshadow/Rose_Chrome_#e89494.png",
+        "color_code": "#e89494",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      },
+
+      {
+        "title": "Violet Luster",
+        "image": "./assets/products/eyeshadow/Violet_Luster_#b064cc.png",
+        "color_code": "#b064cc",
+        "face_elements": ["EYESHADOW_LEFT", "EYESHADOW_RIGHT"]
+      }
+    ]
+  }
+}
